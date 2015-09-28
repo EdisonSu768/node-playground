@@ -1,3 +1,7 @@
-var server = require("./js/server");
+//var server = require("./js/server");
+//
+//server.start();
 
-server.start();
+var reptile = require("./js/reptile");
+
+reptile.start();
